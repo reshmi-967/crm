@@ -1,0 +1,7 @@
+.bg-warning{
+    background-color: yellow;
+}
+.grad{
+    background-color: blue;
+    background-image: linear-gradient(blue,purple,red);
+}
